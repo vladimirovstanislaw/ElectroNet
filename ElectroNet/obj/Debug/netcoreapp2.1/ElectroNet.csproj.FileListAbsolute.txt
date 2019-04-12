@@ -1,0 +1,14 @@
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\bin\Debug\netcoreapp2.1\ElectroNet.deps.json
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\bin\Debug\netcoreapp2.1\ElectroNet.runtimeconfig.json
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\bin\Debug\netcoreapp2.1\ElectroNet.runtimeconfig.dev.json
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\bin\Debug\netcoreapp2.1\ElectroNet.dll
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\bin\Debug\netcoreapp2.1\ElectroNet.pdb
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.csproj.CoreCompileInputs.cache
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.RazorAssemblyInfo.cache
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.RazorAssemblyInfo.cs
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.AssemblyInfoInputs.cache
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.AssemblyInfo.cs
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.RazorTargetAssemblyInfo.cache
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.dll
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.pdb
+C:\Projects\ElektroNet\ElectroNet\ElectroNet\obj\Debug\netcoreapp2.1\ElectroNet.csprojAssemblyReference.cache
